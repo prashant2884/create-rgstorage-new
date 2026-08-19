@@ -3,6 +3,10 @@ rg12 = {
     name     = "devrg1"
     location = "Central India"
   }
+   rg1 = {
+    name     = "devrg2"
+    location = "Central India"
+  }
 }
 
 devstr123 = {
